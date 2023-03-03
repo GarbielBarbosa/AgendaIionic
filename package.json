@@ -14,7 +14,7 @@
     "cordova-plugin-splashscreen": "~4.0.1"
   },
   "dependencies": {
-    "cordova": "^7.0.0",
+    "cordova": "^11.1.0",
     "cordova-android": "^8.1.0",
     "cordova-sqlite-storage": "git+https://github.com/litehelpers/Cordova-sqlite-storage.git"
   },
